@@ -1,0 +1,11 @@
+{
+  "name":"Test2",
+  "description":"qq",
+  "scripts":{},
+  "env":{
+    "WEB_CONCURRENCY":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
